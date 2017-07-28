@@ -20,3 +20,11 @@ Things you have to check:
         $php artisan migrate
         $php artisan serve
         to start the app on http://127.0.0.1:8000/send_mail
+
+        Test api method with PostMan:
+
+         1) succuss
+          ![image](https://public/images/Selection_019.png)
+
+         2) failure
+          ![image](https://public/images/Selection_020.png)
