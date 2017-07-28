@@ -1,4 +1,4 @@
-Things you may want to cover:
+Things you have to check:
 
     php and laravel version
     PHP 7.0.15
