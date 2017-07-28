@@ -1,4 +1,4 @@
-![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/Selection_012.png)
+
 Things you have to check:
 
     php and laravel version
@@ -22,10 +22,10 @@ Things you have to check:
         $php artisan serve
         to start the app on http://127.0.0.1:8000/send_mail
 
-        Test api method with PostMan:
+Test api method with PostMan:
 
-         1) succuss =>
-         ![myimage-alt-tag](https://github.com/sunil16/Mailer_Test_Forgot_Passward_RESTapi/blob/master/public/images/Selection_019.png)
-          <br>
-         2) failure =>
-          ![image](https://github.com/sunil16/Mailer_Test_Forgot_Passward_RESTapi/blob/master/public/images/Selection_020.png)
+1) succuss =>
+![myimage-alt-tag](https://github.com/sunil16/Mailer_Test_Forgot_Passward_RESTapi/blob/master/public/images/Selection_019.png)
+<br>
+2) failure =>
+![image](https://github.com/sunil16/Mailer_Test_Forgot_Passward_RESTapi/blob/master/public/images/Selection_020.png)
