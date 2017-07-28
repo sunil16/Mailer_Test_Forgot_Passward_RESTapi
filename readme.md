@@ -1,3 +1,4 @@
+![myimage-alt-tag](https://github.com/sunil16/laravel5.4_demo_application/blob/master/public/img/Selection_012.png)
 Things you have to check:
 
     php and laravel version
