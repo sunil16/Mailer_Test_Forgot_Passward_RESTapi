@@ -27,5 +27,6 @@ Test api method with PostMan:
 1) succuss =>
 ![myimage-alt-tag](https://github.com/sunil16/Mailer_Test_Forgot_Passward_RESTapi/blob/master/public/images/Selection_019.png)
 <br>
+
 2) failure =>
 ![myimage-alt-tag](https://github.com/sunil16/Mailer_Test_Forgot_Passward_RESTapi/blob/master/public/images/Selection_020.png)
